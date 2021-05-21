@@ -1,5 +1,3 @@
-package arrays.multidimensionais;
-
 public class Aula01ArrayMultidimensional {
     public static void main(String[] args) {
         int[][] arrayMulti1 = new int[2][2];

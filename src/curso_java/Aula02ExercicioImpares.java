@@ -1,5 +1,3 @@
-package LacosDeRepeticao;
-
 import java.util.Scanner;
 
 public class Aula02ExercicioImpares {

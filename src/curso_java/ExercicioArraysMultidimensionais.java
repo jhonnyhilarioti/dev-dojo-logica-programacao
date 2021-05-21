@@ -1,5 +1,3 @@
-package arrays.multidimensionais;
-
 public class ExercicioArraysMultidimensionais {
     public static void main(String[] args) {
         int [][] arrayMulti1 = new int[3][3];
